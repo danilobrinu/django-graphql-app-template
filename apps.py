@@ -1,9 +1,7 @@
 # Built-in package
 
-
 # Third-party packages
 from django.apps import AppConfig
-
 
 # Local packages
 
